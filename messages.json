@@ -1,36 +1,24 @@
 {
   "ABORDAGEM": {
-    
-    "primeiro_contato": [
+    "Tráfego Pago": [
       "Olá! Tudo bem? Posso te passar a cotação do seguro do seu veículo?",
       "Boa tarde! Vi que você solicitou uma cotação. Posso te ajudar?"
     ],
-
-    "Credibilidade": [
+    "Inativos": [
+      "Olá! Recebi seu contato através de uma indicação.",
+      "Tudo bem? Um amigo me indicou para te apresentar nossa proteção veicular."
+    ],
+    "Remarketing": [
       "Olá! Recebi seu contato através de uma indicação.",
       "Tudo bem? Um amigo me indicou para te apresentar nossa proteção veicular."
     ]
-
   },
-
-  "cotacao": {
-
-    "dados_cliente": [
+  "SOLICITAÇÕES": {
+    "Dados p/ cotação": [
       "Para fazer sua cotação me confirme:\n\n☑️ NOME\n☑️ PLACA\n☑️ APP OU PARTICULAR\n☑️ POSSUI GARAGEM\n☑️ CIDADE E ESTADO"
     ],
-
-    "explicacao_proposta": [
-      "Com base no seu perfil consegui uma excelente condição.",
-      "A cobertura inclui roubo, furto, colisão, perda total e assistência 24h."
-    ]
-
-  },
-
-  "vistoria": {
-
-    "documentos": [
+    "Dados p/ vistoria": [
       "*Documentos para preenchimento do contrato*\n\n✅ CNH\n✅ E-MAIL\n✅ DOCUMENTO DO VEÍCULO\n✅ COMPROVANTE DE ENDEREÇO"
     ]
-
   }
 }
