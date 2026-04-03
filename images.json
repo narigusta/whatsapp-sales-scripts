@@ -1,0 +1,20 @@
+{
+  "propostas": [
+    {
+      "nome": "Proposta Básica",
+      "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/proposta1.jpg"
+    },
+
+    {
+      "nome": "Proposta Completa",
+      "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/proposta2.jpg"
+    }
+  ],
+
+  "tabelas": [
+    {
+      "nome": "Tabela de Cobertura",
+      "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/tabela.jpg"
+    }
+  ]
+}
