@@ -1,10 +1,9 @@
 {
-  "Dados Cotação": [
-    "Para fazer sua cotação me confirme:\n\n☑️NOME\n☑️PLACA\n☑️APP OU PARTICULAR ?\n☑️POSSUI GARAGEM ?\n☑️CIDADE E ESTADO"
+  "dados_cotacao": [
+    "Para fazer sua cotação me confirme:\n\n☑️ NOME\n☑️ PLACA\n☑️ APP OU PARTICULAR?\n☑️ POSSUI GARAGEM?\n☑️ CIDADE E ESTADO"
   ],
 
-  "Dados Vistoria": [
-    "*Documentos para preenchimento do contrato de Seguro*\n\n✅CNH\n✅E-MAIL 📧\n✅DOCUMENTO DO VEÍCULO \n✅COMPROVANTE DE ENDEREÇO \n\nFico no aguardo ✅"
+  "dados_vistoria": [
+    "*Documentos para preenchimento do contrato de Seguro*\n\n✅ CNH\n✅ E-MAIL 📧\n✅ DOCUMENTO DO VEÍCULO\n✅ COMPROVANTE DE ENDEREÇO\n\nFico no aguardo ✅"
   ]
-  
 }
