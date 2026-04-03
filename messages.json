@@ -1,17 +1,27 @@
 {
-  "ABORDAGEM": {
+ "ABORDAGEM": {
     "Tráfego Pago": [
-      "Olá! Tudo bem? Posso te passar a cotação do seguro do seu veículo?",
-      "Boa tarde! Vi que você solicitou uma cotação. Posso te ajudar?"
+      "Olá, João. Vi que você solicitou uma cotação de seguro para seu carro. Você ainda pretende ver os valores?",
+      "Olá, João. Recebi sua solicitação para cotação do seguro do veículo. Posso calcular agora para você?",
+      "João, estou com sua solicitação de cotação aberta aqui. Você ainda quer saber quanto ficaria o seguro?",
+      "João, vi que você pediu informações sobre seguro do carro. Ainda está buscando proteção para ele?",
+      "João, estou verificando sua solicitação de cotação aqui. Posso seguir com o cálculo do seguro para você?"
     ],
     "Inativos": [
-      "Olá! Recebi seu contato através de uma indicação.",
-      "Tudo bem? Um amigo me indicou para te apresentar nossa proteção veicular."
+      "Olá, João. Recebi seu contato através de uma indicação sobre seguro de carro. Você já possui proteção atualmente?",
+      "João, me passaram seu contato para falar sobre seguro do veículo. Seu carro já tem algum tipo de proteção hoje?",
+      "João, um cliente nosso comentou que você poderia ter interesse em seguro auto. Você já tem seguro atualmente?",
+      "João, recebi seu contato para verificar sobre proteção veicular. Seu carro hoje está segurado?",
+      "João, falaram comigo sobre a possibilidade de te ajudar com seguro do carro. Você já possui alguma cobertura hoje?"
     ],
     "Remarketing": [
-      "Olá! Recebi seu contato através de uma indicação.",
-      "Tudo bem? Um amigo me indicou para te apresentar nossa proteção veicular."
+      "Olá, João. Vi que você chegou a olhar informações sobre seguro do carro recentemente. Você ainda pretende proteger seu veículo?",
+      "João, percebi que você demonstrou interesse em seguro auto há pouco tempo. Você ainda está avaliando essa possibilidade?",
+      "João, você chegou a pesquisar sobre seguro do carro recentemente. Ainda está pensando em fazer uma cotação?",
+      "João, vi que você teve contato com informações sobre seguro do veículo. Você ainda tem interesse em ver os valores?",
+      "João, notei que você chegou a buscar informações sobre seguro auto. Seu carro hoje já possui proteção?"
     ]
+  }
   },
   "SOLICITAÇÕES": {
     "Dados p/ cotação": [
@@ -20,5 +30,29 @@
     "Dados p/ vistoria": [
       "*Documentos para preenchimento do contrato*\n\n✅ CNH\n✅ E-MAIL\n✅ DOCUMENTO DO VEÍCULO\n✅ COMPROVANTE DE ENDEREÇO"
     ]
+  },
+  "FOLLOW-UP": {
+    "Impacto / Risco": [
+      "João, imagine sair agora e perceber que seu carro não está mais onde você estacionou. Se isso acontecesse hoje, você estaria protegido?",
+      "João, uma batida simples hoje passa fácil de mais de 10 mil reais de prejuízo. Se isso acontecesse com seu carro amanhã, você teria cobertura?",
+      "João, essa semana um cliente nosso teve o carro atingido por granizo e o prejuízo passou de 15 mil. Se algo assim acontecesse com o seu carro hoje, você teria proteção?",
+      "João, vou te fazer uma pergunta direta. Se roubassem seu carro hoje, você conseguiria comprar outro imediatamente?",
+      "João, muita gente só procura seguro depois que o problema acontece. Você prefere se proteger antes que algo aconteça?"
+    ],
+    "Preço / Concorrência": [
+      "João, vou ser direto com você. O motivo de você não ter respondido foi o valor do seguro?",
+      "João, hoje estamos conseguindo cobrir valores de outras seguradoras. Você chegou a receber alguma cotação que achou cara?",
+      "João, muitas pessoas deixam de fazer o seguro porque imaginam que vai ficar caro. Foi isso que aconteceu no seu caso?",
+      "João, nosso trabalho é justamente tentar melhorar propostas que o cliente já recebeu. Você chegou a fazer cotação em outra seguradora?",
+      "João, consigo revisar sua cotação e tentar encontrar uma condição melhor para você. Gostaria que eu verificasse isso?"
+    ],
+    "Lead Frio / Sem Dados": [
+      "João, vi que você demonstrou interesse no seguro, mas ainda não conseguimos calcular. Você ainda pretende ver uma cotação para seu carro?",
+      "João, consigo te passar um valor aproximado do seguro em menos de um minuto. Você ainda tem interesse em saber quanto ficaria?",
+      "João, muitas pessoas pedem informação sobre seguro e acabam deixando para depois. Você ainda pensa em proteger seu carro?",
+      "João, para calcular o seguro eu só preciso de algumas informações básicas. Você ainda quer que eu faça essa cotação para você?",
+      "João, como não tive retorno seu, fiquei na dúvida. Você ainda tem interesse em fazer seguro do carro?"
+    ]
   }
+}
 }
