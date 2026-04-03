@@ -1,22 +1,10 @@
 {
-  "abordagem": [
-    "Olá! Tudo bem? Posso te passar a cotação do seguro do seu veículo?",
-    "Boa tarde! Vi que você solicitou uma cotação. Posso te ajudar?",
-    "Olá! Trabalho com proteção veicular e posso te apresentar uma condição bem interessante."
+  "Dados Cotação": [
+    "Para fazer sua cotação me confirme:\n\n☑️NOME\n☑️PLACA\n☑️APP OU PARTICULAR ?\n☑️POSSUI GARAGEM ?\n☑️CIDADE E ESTADO"
   ],
 
-  "vistoria": [
-    "Perfeito! A vistoria é simples e totalmente online.",
-    "Vou te enviar um link para fazer 8 fotos do carro e um vídeo 360°."
-  ],
-
-  "proposta": [
-    "Com base no seu perfil consegui uma condição excelente.",
-    "A cobertura inclui roubo, furto, colisão, perda total, assistência 24h e terceiros."
-  ],
-
-  "fechamento": [
-    "Perfeito! Vou preparar seu contrato agora.",
-    "Assim que assinar, sua proteção já estará ativa."
+  "Dados Vistoria": [
+    "*Documentos para preenchimento do contrato de Seguro*\n\n✅CNH\n✅E-MAIL 📧\n✅DOCUMENTO DO VEÍCULO \n✅COMPROVANTE DE ENDEREÇO \n\nFico no aguardo ✅",
   ]
+  
 }
