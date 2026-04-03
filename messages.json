@@ -21,7 +21,6 @@
       "João, vi que você teve contato com informações sobre seguro do veículo. Você ainda tem interesse em ver os valores?",
       "João, notei que você chegou a buscar informações sobre seguro auto. Seu carro hoje já possui proteção?"
     ]
-  }
   },
   "SOLICITAÇÕES": {
     "Dados p/ cotação": [
@@ -54,5 +53,4 @@
       "João, como não tive retorno seu, fiquei na dúvida. Você ainda tem interesse em fazer seguro do carro?"
     ]
   }
-}
 }
