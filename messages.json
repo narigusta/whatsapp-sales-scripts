@@ -1,21 +1,9 @@
 {
-  "abordagem":[
-    "Olá! Tudo bem? Posso te passar a cotação do seguro do seu veículo?",
-    "Trabalhamos com proteção completa contra roubo, furto, colisão e assistência 24h."
-  ],
+ Dados:[
+"Para fazer sua cotação me confirme:\n\n☑️NOME\n☑️PLACA\n☑️APP OU PARTICULAR?\n☑️POSSUI GARAGEM?\n☑️CIDADE E ESTADO"
+],
 
-  "vistoria":[
-    "A vistoria é 100% online. Você faz 8 fotos e um vídeo 360° do veículo.",
-    "Após o envio das fotos nossa equipe analisa e libera a ativação."
-  ],
-
-  "objecao_preco":[
-    "Entendo perfeitamente! O valor precisa realmente fazer sentido para você.",
-    "O importante é evitar um prejuízo muito maior."
-  ],
-
-  "fechamento":[
-    "Perfeito! Para ativarmos o seguro preciso da CNH e documento do veículo.",
-    "Após assinatura do contrato o seguro já fica ativo."
-  ]
+Vistoria:[
+"*Documentos para preenchimento do contrato de Seguro*\n\n✅CNH\n✅E-MAIL 📧\n✅DOCUMENTO DO VEÍCULO \n✅COMPROVANTE DE ENDEREÇO \n\nFico no aguardo ✅"
+]
 }
