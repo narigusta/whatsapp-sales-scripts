@@ -1,9 +1,36 @@
 {
-  "Dados Cotação": [
-    "Para fazer sua cotação me confirme:\n\n☑️NOME\n☑️PLACA\n☑️APP OU PARTICULAR ?\n☑️POSSUI GARAGEM ?\n☑️CIDADE E ESTADO"
-  ],
+  "ABORDAGEM": {
+    
+    "primeiro_contato": [
+      "Olá! Tudo bem? Posso te passar a cotação do seguro do seu veículo?",
+      "Boa tarde! Vi que você solicitou uma cotação. Posso te ajudar?"
+    ],
 
-  "Dados Vistoria": [
-    "*Documentos para preenchimento do contrato de Seguro*\n\n✅CNH\n✅E-MAIL 📧\n✅DOCUMENTO DO VEÍCULO\n✅COMPROVANTE DE ENDEREÇO\n\nFico no aguardo ✅"
-  ]
+    "Credibilidade": [
+      "Olá! Recebi seu contato através de uma indicação.",
+      "Tudo bem? Um amigo me indicou para te apresentar nossa proteção veicular."
+    ]
+
+  },
+
+  "cotacao": {
+
+    "dados_cliente": [
+      "Para fazer sua cotação me confirme:\n\n☑️ NOME\n☑️ PLACA\n☑️ APP OU PARTICULAR\n☑️ POSSUI GARAGEM\n☑️ CIDADE E ESTADO"
+    ],
+
+    "explicacao_proposta": [
+      "Com base no seu perfil consegui uma excelente condição.",
+      "A cobertura inclui roubo, furto, colisão, perda total e assistência 24h."
+    ]
+
+  },
+
+  "vistoria": {
+
+    "documentos": [
+      "*Documentos para preenchimento do contrato*\n\n✅ CNH\n✅ E-MAIL\n✅ DOCUMENTO DO VEÍCULO\n✅ COMPROVANTE DE ENDEREÇO"
+    ]
+
+  }
 }
