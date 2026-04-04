@@ -1,20 +1,21 @@
 {
-  "CREDIBILIDADE": [
-    {
-      "nome": "Imagem 2",
-      "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/Image1.jpg"
-    },
+  "IMAGENS": {
+    "Propostas": [
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/proposta1.png"
+      },
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/proposta2.png"
+      }
+    ],
 
-    {
-      "nome": "Imagem 2",
-      "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/Image2.jpg"
-    }
-  ],
-
-  "tabelas": [
-    {
-      "nome": "Imagem 3",
-      "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/Image3.jpg"
-    }
-  ]
+    "Coberturas": [
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/cobertura.png"
+      }
+    ]
+  }
 }
