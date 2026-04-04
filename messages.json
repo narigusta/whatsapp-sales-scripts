@@ -32,26 +32,22 @@
   },
   "FOLLOW-UP": {
     "Recebeu Cotação": [
-      "João, você chegou a receber alguma proposta melhor para o seguro do seu veículo? 🛡🚗 Te enviei uma proposta, mas não tive seu retorno. O que aconteceu?",
-      "João, te mandei uma proposta completa acima e não tive seu retorno. Aconteceu algo ou você desistiu de fazer o seguro do seu [Nome do veículo]? 😥🛡🚗",
-      "João, depois que te enviei a cotação você acabou sumindo. Alguma coisa na proposta não te agradou?",
-      "João, você chegou a analisar a cotação do seguro do seu [Nome do veículo]? Ficou alguma dúvida sobre a proposta? 🛡🚗",
-      "O SEGURO DO SEU VEÍCULO FICOU MAIS BARATO AINDA 😱🚗 João, você viu a proposta que te mandei? Meu supervisor liberou um desconto extra para quem contratar hoje. Quer que eu te envie a proposta atualizada?",
-      "ATUALIZAÇÃO NA COTAÇÃO DO SEU [MODELO DO VEÍCULO] 😱🚗 João, meu supervisor liberou um desconto extra para quem fechar hoje. Quer que eu te envie o novo valor da proposta?",
-      "João, lembra da cotação que te enviei? Ela já tinha desconto, mas hoje conseguimos melhorar ainda mais o valor. Quer que eu refaça a proposta para você?",
-      "João, revisando aqui sua cotação, percebi que ainda conseguimos melhorar o valor do seguro. Quer que eu te envie a proposta atualizada?",
-      "João, estou revisando as cotações enviadas hoje e a sua ainda está em aberto. Você ainda pretende proteger seu [Nome do veículo]? 🛡🚗",
-      "João, a proposta do seguro do seu carro continua disponível. Você ainda está pensando em fazer a proteção do veículo?"
+      "João, recebeu alguma proposta melhor para o *seguro do seu veículo?* 🛡🚗\n\nTe enviei uma proposta, mas não tive seu retorno. O que aconteceu?",
+      "Fala comigo João, te mandei acima uma *proposta completa*, mas não tive seu retorno.\n\nO que houve? Desistiu de fazer o *seguro do seu [Nome do veículo]?* 😥🛡🚗",      
+      "João, desistiu de fazer o *seguro do seu [Nome do veículo]?* 😥🛡\n\nDepois que te mandei a cotação você acabou sumindo. Alguma coisa na proposta não te agradou?",     
+      "*O SEGURO DO SEU VEÍCULO FICOU MAIS BARATO AINDA* 😱🚗\n\nJoão, você chegou a ver a proposta que te mandei?\n\nMeu supervisor *LIBEROU UM DESCONTO A MAIS* para quem contratar o seguro hoje.\n\nO preço que te enviei pode *ficar ainda menor*. Quer que eu te envie a proposta atualizada com esse desconto?",      
+      "*O SEGURO DO SEU [MODELO DO VEÍCULO] ATUALIZOU!* 😱🚗\n\nVocê chegou a ver a proposta que te mandei?\n\nMeu supervisor liberou *DESCONTO EXTRA* para quem fechar hoje.\n\nPosso te enviar a *proposta atualizada com esse novo valor?*",     
+      "*JOÃO, OLHA O QUE O GUSTTAVO LIMA FEZ!* 😨\n\nA cotação que te enviei já tinha desconto, lembra?\n\nSeu desconto pode ficar ainda maior se *finalizar a vistoria hoje*.\n\nO valor era R$000,00, mas contratando hoje *O PREÇO CAI PARA R$000,00* 👀\n\nPosso refazer sua proposta e já liberar sua vistoria com esse desconto?"
     ],
      "Não Recebeu Cotação": [
-      "João, você demonstrou interesse no seguro do seu veículo, mas ainda não conseguimos te mostrar nossa proposta. Posso te enviar uma cotação sem compromisso? Leva menos de 1 minuto. 🛡🚗",
-      "João, você chegou a receber alguma proposta de seguro do seu veículo? Se recebeu, não contrate ainda. Hoje estamos cobrindo valores de outras seguradoras. Pode me enviar essa proposta para eu analisar?",
-      "João, você já contratou o seguro do seu veículo ou ainda está avaliando? Hoje estamos conseguindo bater preços de outras seguradoras.",
-      "João, encontrou alguma proposta de seguro interessante para seu carro? Se quiser, me envia que eu verifico se consigo uma condição ainda melhor para você.",
-      "João, você ainda tem interesse em saber quanto ficaria o seguro do seu veículo? Em menos de 2 minutos consigo calcular uma cotação para você aqui mesmo.",
-      "JOÃO, ROUBARAM O SEU CARRO 😱 Essa é a pior mensagem que alguém sem seguro pode receber. Em menos de 5 minutos consigo te enviar uma cotação para você já saber quanto custa proteger seu veículo.",
-      "JOÃO, BATERAM NO SEU CARRO E FUGIRAM 😪 Já pensou receber uma mensagem assim e não ter seguro ativo? Em poucos minutos consigo te enviar uma cotação para você saber o valor da proteção.",
-      "JOÃO, O *CONSERTO DO VEÍCULO DO TERCEIRO FICOU EM R$18,265,32* 😪\n\nJá pensou receber essa mensagem e não ter seguro ativo? Aqui na BP Seguradora, você tem até *R$200 MIL REAIS* para cobrir *danos em terceiros!*\n\n Quer uma *COTAÇÃO SEM COMPROMISSO* pra você já ficar sabendo o preço do seguro do seu veículo?"
+      "João, você teve interesse no *seguro do seu veículo*, mas ainda não conseguimos te mostrar nossa proposta.\n\nPosso te enviar uma cotação *SEM COMPROMISSO?*\n\nLeva *menos de 1 minuto!* 🛡🚗",
+      "João, você recebeu alguma proposta boa de seguro do seu veículo?\n\nSe sim, *NÃO CONTRATE AINDA…*\n\nMe envia essa proposta aqui, porque hoje estamos *COBRINDO OS PREÇOS DE OUTRAS SEGURADORAS!* 👀",      
+      "João, já contratou o *seguro do seu veículo?*\n\nA *BP Seguradora* hoje é conhecida por *BATER OS PREÇOS* do mercado!\n\nSe você tiver alguma cotação de *SEGURADORA* em mãos, me envia aqui que eu consigo cobrir pra você! 💰",   
+      "João, achou alguma *proposta de seguro auto* boa aí? 👀\n\nSe quiser economizar, me envia essa proposta que eu te apresento *UMA AINDA MELHOR!*\n\nPosso fazer agora uma cotação *SEM COMPROMISSO* pra você ver quanto ficaria?",
+      "João, ainda tem interesse em saber *quanto fica o seguro do seu veículo?*\n\nFaço uma *COTAÇÃO SEM COMPROMISSO* pra você agora e em menos de *2 minutos* já te envio o valor aqui. 🚗🛡",
+      "*JOÃO, ROUBARAM O SEU CARRO* 😱\n\nEssa é provavelmente a pior mensagem que alguém sem seguro pode receber.\n\nEm menos de *5 minutos* consigo te enviar uma *COTAÇÃO SEM COMPROMISSO* para você saber quanto custa proteger seu veículo.",
+      "*JOÃO, BATERAM NO SEU CARRO E FUGIRAM* 😪\n\nJá pensou receber uma mensagem assim e não ter seguro ativo?\n\nLeva *3 minutos* para eu te enviar uma *COTAÇÃO SEM COMPROMISSO* e você já saber quanto custa proteger seu carro.",
+      "JOÃO, O *REPARO DO VEÍCULO DO TERCEIRO FICOU EM R$18.265,32* 😪\n\nJá imaginou receber uma mensagem assim e não ter seguro ativo?\n\nAqui na *BP Seguradora* você pode ter até *R$200 MIL* de cobertura para *danos a terceiros!*\n\nQuer saber quanto ficaria no seu caso?"
     ]
   }
 }
