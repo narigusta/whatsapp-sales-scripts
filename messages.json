@@ -31,26 +31,27 @@
     ]
   },
   "FOLLOW-UP": {
-    "Impacto / Risco": [
-      "João, imagine sair agora e perceber que seu carro não está mais onde você estacionou. Se isso acontecesse hoje, você estaria protegido?",
-      "João, uma batida simples hoje passa fácil de mais de 10 mil reais de prejuízo. Se isso acontecesse com seu carro amanhã, você teria cobertura?",
-      "João, essa semana um cliente nosso teve o carro atingido por granizo e o prejuízo passou de 15 mil. Se algo assim acontecesse com o seu carro hoje, você teria proteção?",
-      "João, vou te fazer uma pergunta direta. Se roubassem seu carro hoje, você conseguiria comprar outro imediatamente?",
-      "João, muita gente só procura seguro depois que o problema acontece. Você prefere se proteger antes que algo aconteça?"
+    "Recebeu Cotação": [
+      "João, você chegou a receber alguma proposta melhor para o seguro do seu veículo? 🛡🚗 Te enviei uma proposta, mas não tive seu retorno. O que aconteceu?",
+      "João, te mandei uma proposta completa acima e não tive seu retorno. Aconteceu algo ou você desistiu de fazer o seguro do seu [Nome do veículo]? 😥🛡🚗",
+      "João, depois que te enviei a cotação você acabou sumindo. Alguma coisa na proposta não te agradou?",
+      "João, você chegou a analisar a cotação do seguro do seu [Nome do veículo]? Ficou alguma dúvida sobre a proposta? 🛡🚗",
+      "O SEGURO DO SEU VEÍCULO FICOU MAIS BARATO AINDA 😱🚗 João, você viu a proposta que te mandei? Meu supervisor liberou um desconto extra para quem contratar hoje. Quer que eu te envie a proposta atualizada?",
+      "ATUALIZAÇÃO NA COTAÇÃO DO SEU [MODELO DO VEÍCULO] 😱🚗 João, meu supervisor liberou um desconto extra para quem fechar hoje. Quer que eu te envie o novo valor da proposta?",
+      "João, lembra da cotação que te enviei? Ela já tinha desconto, mas hoje conseguimos melhorar ainda mais o valor. Quer que eu refaça a proposta para você?",
+      "João, revisando aqui sua cotação, percebi que ainda conseguimos melhorar o valor do seguro. Quer que eu te envie a proposta atualizada?",
+      "João, estou revisando as cotações enviadas hoje e a sua ainda está em aberto. Você ainda pretende proteger seu [Nome do veículo]? 🛡🚗",
+      "João, a proposta do seguro do seu carro continua disponível. Você ainda está pensando em fazer a proteção do veículo?"
     ],
-    "Preço / Concorrência": [
-      "João, vou ser direto com você. O motivo de você não ter respondido foi o valor do seguro?",
-      "João, hoje estamos conseguindo cobrir valores de outras seguradoras. Você chegou a receber alguma cotação que achou cara?",
-      "João, muitas pessoas deixam de fazer o seguro porque imaginam que vai ficar caro. Foi isso que aconteceu no seu caso?",
-      "João, nosso trabalho é justamente tentar melhorar propostas que o cliente já recebeu. Você chegou a fazer cotação em outra seguradora?",
-      "João, consigo revisar sua cotação e tentar encontrar uma condição melhor para você. Gostaria que eu verificasse isso?"
-    ],
-    "Lead Frio / Sem Dados": [
-      "João, vi que você demonstrou interesse no seguro, mas ainda não conseguimos calcular. Você ainda pretende ver uma cotação para seu carro?",
-      "João, consigo te passar um valor aproximado do seguro em menos de um minuto. Você ainda tem interesse em saber quanto ficaria?",
-      "João, muitas pessoas pedem informação sobre seguro e acabam deixando para depois. Você ainda pensa em proteger seu carro?",
-      "João, para calcular o seguro eu só preciso de algumas informações básicas. Você ainda quer que eu faça essa cotação para você?",
-      "João, como não tive retorno seu, fiquei na dúvida. Você ainda tem interesse em fazer seguro do carro?"
+     "Não Recebeu Cotação": [
+      "João, você demonstrou interesse no seguro do seu veículo, mas ainda não conseguimos te mostrar nossa proposta. Posso te enviar uma cotação sem compromisso? Leva menos de 1 minuto. 🛡🚗",
+      "João, você chegou a receber alguma proposta de seguro do seu veículo? Se recebeu, não contrate ainda. Hoje estamos cobrindo valores de outras seguradoras. Pode me enviar essa proposta para eu analisar?",
+      "João, você já contratou o seguro do seu veículo ou ainda está avaliando? Hoje estamos conseguindo bater preços de outras seguradoras.",
+      "João, encontrou alguma proposta de seguro interessante para seu carro? Se quiser, me envia que eu verifico se consigo uma condição ainda melhor para você.",
+      "João, você ainda tem interesse em saber quanto ficaria o seguro do seu veículo? Em menos de 2 minutos consigo calcular uma cotação para você aqui mesmo.",
+      "JOÃO, ROUBARAM O SEU CARRO 😱 Essa é a pior mensagem que alguém sem seguro pode receber. Em menos de 5 minutos consigo te enviar uma cotação para você já saber quanto custa proteger seu veículo.",
+      "JOÃO, BATERAM NO SEU CARRO E FUGIRAM 😪 Já pensou receber uma mensagem assim e não ter seguro ativo? Em poucos minutos consigo te enviar uma cotação para você saber o valor da proteção.",
+      "JOÃO, O CONSERTO DO VEÍCULO DO TERCEIRO FICOU EM R$18.265,32 😪 Já pensou receber uma mensagem assim e não ter seguro ativo? Aqui você pode ter até R$200 mil de cobertura para danos em terceiros. Quer saber quanto ficaria no seu caso?"
     ]
   }
 }
