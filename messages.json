@@ -51,25 +51,3 @@
     ]
   }
 }
-
-{
-  "IMAGENS": {
-    "Propostas": [
-      {
-        "type": "image",
-        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/proposta1.png"
-      },
-      {
-        "type": "image",
-        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/proposta2.png"
-      }
-    ],
-
-    "Coberturas": [
-      {
-        "type": "image",
-        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/cobertura.png"
-      }
-    ]
-  }
-}
