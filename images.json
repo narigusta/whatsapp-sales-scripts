@@ -2,18 +2,18 @@
   "IMAGENS": {
     "Propostas": [
       {
-        "type": "image",
+        "nome": "Proposta 1",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/proposta1.png"
       },
       {
-        "type": "image",
+        "nome": "Proposta 2",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/proposta2.png"
       }
     ],
 
     "Coberturas": [
       {
-        "type": "image",
+        "nome": "Cobertura",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/cobertura.png"
       }
     ]
