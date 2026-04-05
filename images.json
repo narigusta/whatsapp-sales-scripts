@@ -5,13 +5,15 @@
         "nome": "Imagem 2",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image2.jpg"
       },
-      {
-        "nome": "Imagem 3",
-        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image3.jpg"
-      },
-      {
-        "nome": "Imagem 1",
-        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image1.jpg"
+       {
+        "nome": "Imagem 2",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image2.jpg"
+      }, {
+        "nome": "Imagem 2",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image2.jpg"
+      }, {
+        "nome": "Imagem 2",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image2.jpg"
       }
     ]
   }
