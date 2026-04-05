@@ -3,18 +3,18 @@
     "Propostas": [
       {
         "nome": "Proposta 1",
-        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/Image1.jpg"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg"
       },
       {
         "nome": "Proposta 2",
-        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/Image2.jpg"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg"
       }
     ],
 
     "Coberturas": [
       {
         "nome": "Cobertura",
-        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/imagens/Image3.jpg"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg"
       }
     ]
   }
