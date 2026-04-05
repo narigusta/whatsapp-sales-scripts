@@ -3,18 +3,18 @@
     "Propostas": [
       {
         "nome": "Proposta 1",
-        "url": "https://i.imgur.com/lGUxtnT.jpeg"
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image2.jpg"
       },
       {
         "nome": "Proposta 2",
-        "url": "https://i.imgur.com/lGUxtnT.jpeg"
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image2.jpg"
       }
     ],
 
     "Coberturas": [
       {
         "nome": "Cobertura",
-        "url": "https://i.imgur.com/lGUxtnT.jpeg"
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/Image2.jpg"
       }
     ]
   }
