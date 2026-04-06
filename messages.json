@@ -1,25 +1,13 @@
 {
   "ABORDAGEM": {
-    "Tráfego Pago": [
-      "Olá, João. Vi que você solicitou uma cotação de seguro para seu carro. Você ainda pretende ver os valores?",
-      "Olá, João. Recebi sua solicitação para cotação do seguro do veículo. Posso calcular agora para você?",
-      "João, estou com sua solicitação de cotação aberta aqui. Você ainda quer saber quanto ficaria o seguro?",
-      "João, vi que você pediu informações sobre seguro do carro. Ainda está buscando proteção para ele?",
-      "João, estou verificando sua solicitação de cotação aqui. Posso seguir com o cálculo do seguro para você?"
+    "Anúncio": [
+      "Mensagens em desenvolvimento..."
     ],
     "Inativos": [
-      "Olá, João. Recebi seu contato através de uma indicação sobre seguro de carro. Você já possui proteção atualmente?",
-      "João, me passaram seu contato para falar sobre seguro do veículo. Seu carro já tem algum tipo de proteção hoje?",
-      "João, um cliente nosso comentou que você poderia ter interesse em seguro auto. Você já tem seguro atualmente?",
-      "João, recebi seu contato para verificar sobre proteção veicular. Seu carro hoje está segurado?",
-      "João, falaram comigo sobre a possibilidade de te ajudar com seguro do carro. Você já possui alguma cobertura hoje?"
+      "Mensagens em desenvolvimento..."
     ],
     "Remarketing": [
-      "Olá, João. Vi que você chegou a olhar informações sobre seguro do carro recentemente. Você ainda pretende proteger seu veículo?",
-      "João, percebi que você demonstrou interesse em seguro auto há pouco tempo. Você ainda está avaliando essa possibilidade?",
-      "João, você chegou a pesquisar sobre seguro do carro recentemente. Ainda está pensando em fazer uma cotação?",
-      "João, vi que você teve contato com informações sobre seguro do veículo. Você ainda tem interesse em ver os valores?",
-      "João, notei que você chegou a buscar informações sobre seguro auto. Seu carro hoje já possui proteção?"
+      "Mensagens em desenvolvimento..."
     ]
   },
   "SOLICITAÇÕES": {
