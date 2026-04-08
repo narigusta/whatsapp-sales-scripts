@@ -1,18 +1,18 @@
 {
   "IMAGENS": {
     "Follow-Up": [
-       {
-        "nome": "Imagem 5",
+      {
+        "nome": "Imagem 1",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/cafe-2.jpeg"
       },
-       {
-        "nome": "Imagem 6",
+      {
+        "nome": "Imagem 2",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/cafe-1.jpeg"
       },
       {
-        "nome": "Imagem 7",
+        "nome": "Imagem 3",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/refs/heads/main/images/assist24.jpeg"
-      }
+      },
     ]
   }
 }
