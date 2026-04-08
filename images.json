@@ -8,13 +8,17 @@
       {
         "nome": "Imagem 2",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/cafe-2.jpeg"
-      },
+      }
+    ]
+  }
+  {
+    "Essênciais": [
       {
-        "nome": "Imagem 3",
+        "nome": "Essencial1",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/assist24.jpeg"
       },
       {
-        "nome": "Imagem 4",
+        "nome": "Essencial2",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/proposta20.png"
       }
     ]
