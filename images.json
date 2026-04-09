@@ -2,8 +2,20 @@
   "IMAGENS": {
     "Follow-Up": [
       {
-        "nome": "Imagem 2",
+        "nome": "Imagem 1",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/cafe-1.jpeg"
+      },
+       {
+        "nome": "Imagem 2",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/cafe-2.jpeg"
+      },
+       {
+        "nome": "Imagem 3",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/assist24.jpeg"
+      },
+       {
+        "nome": "Imagem 4",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/proposta20.png"
       }
     ]
   }
