@@ -1,10 +1,13 @@
 {
-  "ABORDAGEM": {
-    "Anúncio": [
-      "💙 *BP Seguradora!* 💙\n\nMe chamo *Gustavo* e acabei de receber a sua solicitação de *cotação do seguro do seu veículo!* 🛡🚗🏍",
-      "💙 *BP Seguradora* 💙\n\nSou o *Gustavo*, vi que você pediu uma cotação de seguro 🛡🚗",
-      "💙 *BP Seguradora* 💙\n\nMeu nome é *Gustavo* e acabei de receber sua solicitação de *cotação de seguro* aqui! 🤩🛡🚗",
-      "💙 *BP Seguradora* 💙\n\nOlá! Sou o *Gustavo*, estou responsável pelo seu atendimento e recebi sua solicitação de *cotação de seguro!* 🛡🚗"
+  "ATENDIMENTO": {
+    "Passo 1": [
+      "Olá! Seja muito bem-vindo à *Bem Corretora*, corretora exclusiva da *BP Seguradora* 💙\n\nMe chamo [SEU NOME], sou especialista em seguros e vou te ajudar a garantir a melhor cobertura para seu veículo! 🚗💙\nPreciso de algumas informações rápidas para realizar sua cotação:\n\n🧑🏻 Nome:\n📍 Estado/Cidade onde você mora: \n🚗 Placa do veículo:\n🏠 Tem garagem em casa?\n🚖 Roda em taxi ou aplicativo?\n\nAtuamos em todo o Brasil, garantindo segurança para carros, motos e caminhões! 🚘🛵🚛\n\nCNPJ: 50.180.527/0001-13 | SUSEP: 01546 | BP Seguradora S.A."
+    ],
+    "Passo 2": [
+      "Olá! Seja muito bem-vindo à *Bem Corretora*, corretora exclusiva da *BP Seguradora* 💙\n\nMe chamo [SEU NOME], sou especialista em seguros e vou te ajudar a garantir a melhor cobertura para seu veículo! 🚗💙\nPreciso de algumas informações rápidas para realizar sua cotação:\n\n🧑🏻 Nome:\n📍 Estado/Cidade onde você mora: \n🚗 Placa do veículo:\n🏠 Tem garagem em casa?\n🚖 Roda em taxi ou aplicativo?\n\nAtuamos em todo o Brasil, garantindo segurança para carros, motos e caminhões! 🚘🛵🚛\n\nCNPJ: 50.180.527/0001-13 | SUSEP: 01546 | BP Seguradora S.A."
+    ],
+    "Cob. Compreensiva": [
+      "Olá! Seja muito bem-vindo à *Bem Corretora*, corretora exclusiva da *BP Seguradora* 💙\n\nMe chamo [SEU NOME], sou especialista em seguros e vou te ajudar a garantir a melhor cobertura para seu veículo! 🚗💙\nPreciso de algumas informações rápidas para realizar sua cotação:\n\n🧑🏻 Nome:\n📍 Estado/Cidade onde você mora: \n🚗 Placa do veículo:\n🏠 Tem garagem em casa?\n🚖 Roda em taxi ou aplicativo?\n\nAtuamos em todo o Brasil, garantindo segurança para carros, motos e caminhões! 🚘🛵🚛\n\nCNPJ: 50.180.527/0001-13 | SUSEP: 01546 | BP Seguradora S.A."
     ],
     "Inativos": [
       "Mensagens em desenvolvimento..."
