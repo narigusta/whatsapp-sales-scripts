@@ -19,6 +19,14 @@
       },
        {
         "nome": "Imagem 5",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/bandeira_fidelidade.png"
+      },
+       {
+        "nome": "Imagem 6",
+        "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/bandeira_seguroauto.png"
+      },
+       {
+        "nome": "Imagem 7",
         "url": "https://raw.githubusercontent.com/narigusta/whatsapp-sales-scripts/main/images/Reclame-aqui.png"
       }
     ]
